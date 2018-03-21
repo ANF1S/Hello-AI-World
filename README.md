@@ -1,2 +1,2 @@
-# Hello-AI-World
+# Hello-AI-Worl
 Greetings human beings.
