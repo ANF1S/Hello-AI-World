@@ -1,2 +1,2 @@
-# Hello-AI-Worl
+# My first steps.
 Greetings human beings.
