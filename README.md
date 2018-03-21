@@ -1,2 +1,2 @@
 # Hello-AI-World
-First rep
+Greetings human beings.
