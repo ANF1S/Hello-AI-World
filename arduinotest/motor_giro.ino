@@ -17,7 +17,7 @@ int infraPin1= 12;
 int infraPin2=6;
 
 int lectura=0;
-/********************PROGRAMA**********************/
+/********************PROGRAM**********************/
 //FALTA VER COMO AVANZAR DE NUEVO
 void setup()
 {
