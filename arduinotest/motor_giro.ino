@@ -12,7 +12,7 @@ int IN2 = 2;
 int valorInfra1= 0;
 int valorInfra2=0;
 
-//Pines para sensores Tracker senson inicializadas
+//Pines para sensores Tracker son inicializadas
 int infraPin1= 12;
 int infraPin2=6;
 
